@@ -1,7 +1,8 @@
 import pygame
 
-pygame.init()
+
 def main():
+    pygame.init()
     window = pygame.display.set_mode((500,500))
     back = (200,255,255)
     window.fill(back)
