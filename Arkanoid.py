@@ -1,6 +1,6 @@
 import pygame
 
-
+# Игра
 def main():
     pygame.init()
     window = pygame.display.set_mode((500,500))
